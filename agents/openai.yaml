@@ -1,0 +1,4 @@
+interface:
+  display_name: "RIGOL DS1202Z-E"
+  short_description: "Control DS1202Z-E USB oscilloscopes"
+  default_prompt: "Use $ds1202ze to scan USB, identify the DS1202Z-E, and capture a CH1 waveform."
